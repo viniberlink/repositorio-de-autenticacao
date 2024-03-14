@@ -1,2 +1,3 @@
-# o-meu-repositorio-de-autenticacao
-Repositório de testes de autenticação
+# Meu repositório de estudos - Git e Github
+
+## Repositório de testes de autenticação
